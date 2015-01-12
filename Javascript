@@ -34,4 +34,4 @@ var tabbedTOC = {
     newText: " - <em style='color:red;'>New!</em>" // HTML for the "New!" text
 };
 </script>
-<script src="https://raw.githubusercontent.com/palmahutabarat/Sitemap-Javascript/master/Js" type="text/javascript"></script>
+<script src="https://raw.githubusercontent.com/palmahutabarat/Sitemap-Javascript/master/Js/" type="text/javascript"></script>
