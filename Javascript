@@ -1,0 +1,37 @@
+<div id="tabbed-toc">
+<span class="loading">Wait for loading...</span></div>
+<br />
+<script type="text/javascript">
+var tabbedTOC = {
+    blogUrl: "http://palmahutabarat69.blogspot.com/", // Blog URL
+    containerId: "tabbed-toc", // Container ID
+    activeTab: 1, // The default active tab index (default: the first tab)
+    showDates: false, // `true` to show the post date
+    showSummaries: false, // `true` to show the posts summaries
+    numChars: 200, // Number of summary chars
+    showThumbnails: false, // `true` to show the posts thumbnails (Not recommended)
+    thumbSize: 40, // Thumbnail size
+    noThumb: "http://3.bp.blogspot.com/-vpCFysMEZys/UOEhSGjkfnI/AAAAAAAAFwY/h1wuA5kfEhg/s72-c/grey.png", // A "no thumbnail" URL
+    monthNames: [ // Array of month names
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    newTabLink: true, // Open link in new window?
+    maxResults: 99999, // Maximum post results
+    preload: 0, // Load the feed after 0 seconds (option => time in milliseconds || "onload")
+    sortAlphabetically: true, // `false` to sort posts by published date
+    showNew: 7, // `false` to hide the "New!" mark in most recent posts, or define how many recent posts are to be marked
+    newText: " - <em style='color:red;'>New!</em>" // HTML for the "New!" text
+};
+</script>
+<script src="https://raw.githubusercontent.com/palmahutabarat/Sitemap-Javascript/master/Js" type="text/javascript"></script>
